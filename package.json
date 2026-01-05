@@ -12,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://yourusername.github.io/hailin-high-school-alumni",
+  "homepage": "https://YOUR_USERNAME.github.io/hailin-high-school-alumni",
   "dependencies": {
     "autoprefixer": "^10.4.20",
     "lucide-react": "^0.554.0",
